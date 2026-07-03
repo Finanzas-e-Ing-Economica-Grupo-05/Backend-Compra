@@ -1,0 +1,6 @@
+@backend_finanzas_grupo5_HostAddress = http://localhost:5102
+
+GET {{backend_finanzas_grupo5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
